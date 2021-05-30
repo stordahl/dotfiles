@@ -1,0 +1,5 @@
+[user]
+	email = jacob@stordahl.dev
+	name = Jacob Stordahl
+[init]
+	defaultBranch = main
